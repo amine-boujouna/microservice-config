@@ -1,0 +1,8 @@
+# application.yml
+logging:
+  level:
+    root: INFO
+
+spring:
+  application:
+    name: global-config

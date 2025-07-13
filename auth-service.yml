@@ -1,0 +1,5 @@
+# user-service.yml
+server:
+  port: 8081
+
+message: "Bonjour depuis le fichier de configuration Git : user-service"
