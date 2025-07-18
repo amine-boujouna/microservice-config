@@ -4,9 +4,7 @@ server:
 spring:
   application:
     name: discovery-service
-  cloud:
-    config:
-      enabled: true
+
 
 eureka:
   client:
